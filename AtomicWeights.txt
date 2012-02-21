@@ -1,0 +1,15 @@
+Element	Atomic Wt	ElementAbbrev
+"lanthanum,fil,icp-ms"	138.9054	La
+"cerium,fil,icp-ms"	140.116	Ce
+"praseodymium,fil,icp-ms"	140.9076	Pr
+"neodymium,fil,icp-ms"	144.242	Nd
+"samarium,fil,icp-ms"	150.36	Sm
+"europium,fil,icp-ms"	151.964	Eu
+"gadolinium,fil,icp-ms"	157.25	Gd
+"terbium,fil,icp-ms"	158.9253	Tb
+"dysprosium,fil,icp-ms"	162.5	Dy
+"holmium,fil,icp-ms"	164.9303	Ho
+"erbium,fil,icp-ms"	167.259	Er
+"thulium,fil,icp-ms"	168.9342	Tm
+"ytterbium,fil,icp-ms"	173.054	Yb
+"lutetium,fil,icp-ms"	174.9668	Lu
